@@ -1,0 +1,21 @@
+{
+"name": "NALDO GRAFIC DESIGNER NGD 2026",
+"short_name": "NGD 2026",
+"description": "Aplicación profesional de diseño gráfico, semitonos RIP y vectorización con IA",
+"start_url": "./index.html",
+"display": "standalone",
+"background_color": "#121212",
+"theme_color": "#FF6B00",
+"icons": [
+{
+"src": "https://placehold.co/192x192/FF6B00/FFFFFF?text=NGD",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "https://placehold.co/512x512/FF6B00/FFFFFF?text=NGD",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
+}
